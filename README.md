@@ -22,7 +22,7 @@ pod 'SwiftyKlotski'
 
 ## Author
 
-jeantimex, jean.timex@gmail.com
+Yong Su, jean.timex@gmail.com
 
 ## License
 

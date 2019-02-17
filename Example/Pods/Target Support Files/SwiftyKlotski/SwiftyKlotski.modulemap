@@ -1,0 +1,6 @@
+framework module SwiftyKlotski {
+  umbrella header "SwiftyKlotski-umbrella.h"
+
+  export *
+  module * { export * }
+}

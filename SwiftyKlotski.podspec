@@ -53,7 +53,7 @@ Pod::Spec.new do |s|
 #  profile URL.
 #
 
-  s.author           = { 'jeantimex' => 'jean.timex@gmail.com' }
+  s.author           = { 'Yong Su' => 'jean.timex@gmail.com' }
 
 # ――― Source Location ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
 #

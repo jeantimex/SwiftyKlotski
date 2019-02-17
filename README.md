@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/SwiftyKlotski.svg?style=flat)](https://cocoapods.org/pods/SwiftyKlotski)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftyKlotski.svg?style=flat)](https://cocoapods.org/pods/SwiftyKlotski)
 
+A Swift library for solving Klotski puzzle games with efficient algorithm.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.

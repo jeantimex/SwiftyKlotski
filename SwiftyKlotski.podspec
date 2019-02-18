@@ -82,6 +82,12 @@ Pod::Spec.new do |s|
 
   s.source_files = 'SwiftyKlotski/Classes/**/*'
   
+  s.test_spec 'Tests' do |test_spec|
+    test_spec.source_files = 'Example/Tests/*.swift'
+    test_spec.dependency 'Quick', '1.3.4'
+    test_spec.dependency 'Nimble', '7.3.4'
+  end
+  
   # s.resource_bundles = {
   #   'SwiftyKlotski' => ['SwiftyKlotski/Assets/*.png']
   # }

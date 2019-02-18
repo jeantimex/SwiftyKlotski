@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		5D502C7ECC1094C0EF1EFFAB /* Pods_SwiftyKlotski_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7A317FAAFC201BB0CD0C7D4C /* Pods_SwiftyKlotski_Example.framework */; };
+		0DC6872B4A833FDB6BED49BE /* Pods_SwiftyKlotski_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FFA849FAC04A3831EFB1CD1B /* Pods_SwiftyKlotski_Tests.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
-		EB495654A76F8F7C3E2F4281 /* Pods_SwiftyKlotski_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B31D1412E52811A098A137F7 /* Pods_SwiftyKlotski_Tests.framework */; };
+		FA576D2DBF964E44F19B5345 /* Pods_SwiftyKlotski_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A478B5EEA6F91D9495B3035B /* Pods_SwiftyKlotski_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,8 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		15F20D4DF83635AD3FE1DA1B /* Pods-SwiftyKlotski_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftyKlotski_Tests.release.xcconfig"; path = "Target Support Files/Pods-SwiftyKlotski_Tests/Pods-SwiftyKlotski_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		2EE94DF69D4B0D82749D0A05 /* Pods-SwiftyKlotski_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftyKlotski_Example.release.xcconfig"; path = "Target Support Files/Pods-SwiftyKlotski_Example/Pods-SwiftyKlotski_Example.release.xcconfig"; sourceTree = "<group>"; };
+		59E26243F8CED8CF41476462 /* Pods-SwiftyKlotski_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftyKlotski_Example.debug.xcconfig"; path = "Target Support Files/Pods-SwiftyKlotski_Example/Pods-SwiftyKlotski_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		5D478D7C50EA13C4143CB2F8 /* Pods-SwiftyKlotski_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftyKlotski_Example.release.xcconfig"; path = "Target Support Files/Pods-SwiftyKlotski_Example/Pods-SwiftyKlotski_Example.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* SwiftyKlotski_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftyKlotski_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -40,13 +40,13 @@
 		607FACE51AFB9204008FA782 /* SwiftyKlotski_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftyKlotski_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		7A317FAAFC201BB0CD0C7D4C /* Pods_SwiftyKlotski_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftyKlotski_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		90EA73FE9FE07556E6314939 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		B31D1412E52811A098A137F7 /* Pods_SwiftyKlotski_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftyKlotski_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C6B4899DB60B507E09B90884 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		CD4E18E2BA4AF09C5C9220BC /* SwiftyKlotski.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SwiftyKlotski.podspec; path = ../SwiftyKlotski.podspec; sourceTree = "<group>"; };
-		E3E26BE8DE9CA25595549198 /* Pods-SwiftyKlotski_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftyKlotski_Example.debug.xcconfig"; path = "Target Support Files/Pods-SwiftyKlotski_Example/Pods-SwiftyKlotski_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		F1C1C04B379F20D0EC7874EC /* Pods-SwiftyKlotski_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftyKlotski_Tests.debug.xcconfig"; path = "Target Support Files/Pods-SwiftyKlotski_Tests/Pods-SwiftyKlotski_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		87A791A7D4CC604466210085 /* Pods-SwiftyKlotski_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftyKlotski_Tests.debug.xcconfig"; path = "Target Support Files/Pods-SwiftyKlotski_Tests/Pods-SwiftyKlotski_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		90EA73FE9FE07556E6314939 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		A478B5EEA6F91D9495B3035B /* Pods_SwiftyKlotski_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftyKlotski_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFB41612069164D945E8D2E9 /* Pods-SwiftyKlotski_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftyKlotski_Tests.release.xcconfig"; path = "Target Support Files/Pods-SwiftyKlotski_Tests/Pods-SwiftyKlotski_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		C6B4899DB60B507E09B90884 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		CD4E18E2BA4AF09C5C9220BC /* SwiftyKlotski.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SwiftyKlotski.podspec; path = ../SwiftyKlotski.podspec; sourceTree = "<group>"; };
+		FFA849FAC04A3831EFB1CD1B /* Pods_SwiftyKlotski_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SwiftyKlotski_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5D502C7ECC1094C0EF1EFFAB /* Pods_SwiftyKlotski_Example.framework in Frameworks */,
+				FA576D2DBF964E44F19B5345 /* Pods_SwiftyKlotski_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,13 +62,33 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EB495654A76F8F7C3E2F4281 /* Pods_SwiftyKlotski_Tests.framework in Frameworks */,
+				0DC6872B4A833FDB6BED49BE /* Pods_SwiftyKlotski_Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3F505B80C0B2A09450363CEB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				A478B5EEA6F91D9495B3035B /* Pods_SwiftyKlotski_Example.framework */,
+				FFA849FAC04A3831EFB1CD1B /* Pods_SwiftyKlotski_Tests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		55AFD3BFF3776F6B43407CF0 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				59E26243F8CED8CF41476462 /* Pods-SwiftyKlotski_Example.debug.xcconfig */,
+				5D478D7C50EA13C4143CB2F8 /* Pods-SwiftyKlotski_Example.release.xcconfig */,
+				87A791A7D4CC604466210085 /* Pods-SwiftyKlotski_Tests.debug.xcconfig */,
+				AFB41612069164D945E8D2E9 /* Pods-SwiftyKlotski_Tests.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		607FACC71AFB9204008FA782 = {
 			isa = PBXGroup;
 			children = (
@@ -76,8 +96,8 @@
 				607FACD21AFB9204008FA782 /* Example for SwiftyKlotski */,
 				607FACE81AFB9204008FA782 /* Tests */,
 				607FACD11AFB9204008FA782 /* Products */,
-				6B5E99264BDA5548C6E880D4 /* Pods */,
-				795610C84BDE51A7C0274E8D /* Frameworks */,
+				55AFD3BFF3776F6B43407CF0 /* Pods */,
+				3F505B80C0B2A09450363CEB /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -139,27 +159,6 @@
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
-		6B5E99264BDA5548C6E880D4 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				E3E26BE8DE9CA25595549198 /* Pods-SwiftyKlotski_Example.debug.xcconfig */,
-				2EE94DF69D4B0D82749D0A05 /* Pods-SwiftyKlotski_Example.release.xcconfig */,
-				F1C1C04B379F20D0EC7874EC /* Pods-SwiftyKlotski_Tests.debug.xcconfig */,
-				15F20D4DF83635AD3FE1DA1B /* Pods-SwiftyKlotski_Tests.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
-			sourceTree = "<group>";
-		};
-		795610C84BDE51A7C0274E8D /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				7A317FAAFC201BB0CD0C7D4C /* Pods_SwiftyKlotski_Example.framework */,
-				B31D1412E52811A098A137F7 /* Pods_SwiftyKlotski_Tests.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -167,11 +166,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "SwiftyKlotski_Example" */;
 			buildPhases = (
-				ABC42D10D36B1C951CC85CC8 /* [CP] Check Pods Manifest.lock */,
+				99C3F712712ED57DFD5AE39E /* [CP] Check Pods Manifest.lock */,
 				607FACCC1AFB9204008FA782 /* Sources */,
 				607FACCD1AFB9204008FA782 /* Frameworks */,
 				607FACCE1AFB9204008FA782 /* Resources */,
-				A6791A8FB6209E59565B8562 /* [CP] Embed Pods Frameworks */,
+				7AB75B7A9C18EB49A9D80478 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -186,11 +185,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 607FACF21AFB9204008FA782 /* Build configuration list for PBXNativeTarget "SwiftyKlotski_Tests" */;
 			buildPhases = (
-				E30B3A8C61A03CB0C331D160 /* [CP] Check Pods Manifest.lock */,
+				5FDAADEC2B24BD946254942A /* [CP] Check Pods Manifest.lock */,
 				607FACE11AFB9204008FA782 /* Sources */,
 				607FACE21AFB9204008FA782 /* Frameworks */,
 				607FACE31AFB9204008FA782 /* Resources */,
-				42DB60C3BD16B376C62D9E92 /* [CP] Embed Pods Frameworks */,
+				A7CB76B4DB23208699BAAD14 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -209,7 +208,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0830;
+				LastUpgradeCheck = 1010;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
@@ -263,7 +262,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		42DB60C3BD16B376C62D9E92 /* [CP] Embed Pods Frameworks */ = {
+		5FDAADEC2B24BD946254942A /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -271,23 +270,21 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SwiftyKlotski_Tests/Pods-SwiftyKlotski_Tests-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework",
-				"${BUILT_PRODUCTS_DIR}/Quick/Quick.framework",
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
 			);
-			name = "[CP] Embed Pods Frameworks";
+			name = "[CP] Check Pods Manifest.lock";
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Nimble.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Quick.framework",
+				"$(DERIVED_FILE_DIR)/Pods-SwiftyKlotski_Tests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SwiftyKlotski_Tests/Pods-SwiftyKlotski_Tests-frameworks.sh\"\n";
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		A6791A8FB6209E59565B8562 /* [CP] Embed Pods Frameworks */ = {
+		7AB75B7A9C18EB49A9D80478 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -309,7 +306,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SwiftyKlotski_Example/Pods-SwiftyKlotski_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		ABC42D10D36B1C951CC85CC8 /* [CP] Check Pods Manifest.lock */ = {
+		99C3F712712ED57DFD5AE39E /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -331,7 +328,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		E30B3A8C61A03CB0C331D160 /* [CP] Check Pods Manifest.lock */ = {
+		A7CB76B4DB23208699BAAD14 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -339,18 +336,20 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
+				"${PODS_ROOT}/Target Support Files/Pods-SwiftyKlotski_Tests/Pods-SwiftyKlotski_Tests-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Nimble/Nimble.framework",
+				"${BUILT_PRODUCTS_DIR}/Quick/Quick.framework",
 			);
-			name = "[CP] Check Pods Manifest.lock";
+			name = "[CP] Embed Pods Frameworks";
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-SwiftyKlotski_Tests-checkManifestLockResult.txt",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Nimble.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Quick.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SwiftyKlotski_Tests/Pods-SwiftyKlotski_Tests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -415,12 +414,14 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -468,12 +469,14 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -504,7 +507,7 @@
 		};
 		607FACF01AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E3E26BE8DE9CA25595549198 /* Pods-SwiftyKlotski_Example.debug.xcconfig */;
+			baseConfigurationReference = 59E26243F8CED8CF41476462 /* Pods-SwiftyKlotski_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SwiftyKlotski/Info.plist;
@@ -519,7 +522,7 @@
 		};
 		607FACF11AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2EE94DF69D4B0D82749D0A05 /* Pods-SwiftyKlotski_Example.release.xcconfig */;
+			baseConfigurationReference = 5D478D7C50EA13C4143CB2F8 /* Pods-SwiftyKlotski_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SwiftyKlotski/Info.plist;
@@ -534,7 +537,7 @@
 		};
 		607FACF31AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F1C1C04B379F20D0EC7874EC /* Pods-SwiftyKlotski_Tests.debug.xcconfig */;
+			baseConfigurationReference = 87A791A7D4CC604466210085 /* Pods-SwiftyKlotski_Tests.debug.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -556,7 +559,7 @@
 		};
 		607FACF41AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 15F20D4DF83635AD3FE1DA1B /* Pods-SwiftyKlotski_Tests.release.xcconfig */;
+			baseConfigurationReference = AFB41612069164D945E8D2E9 /* Pods-SwiftyKlotski_Tests.release.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",

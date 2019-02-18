@@ -1,7 +1,7 @@
 PODS:
   - Nimble (7.3.4)
   - Quick (1.3.4)
-  - SwiftyKlotski (0.1.1)
+  - SwiftyKlotski (0.2.2)
 
 DEPENDENCIES:
   - Nimble (~> 7.3.4)
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Nimble: 051e3d8912d40138fa5591c78594f95fb172af37
   Quick: f4f7f063c524394c73ed93ac70983c609805d481
-  SwiftyKlotski: 40505d68fe82c9a540898487da2ee01c7aca5b45
+  SwiftyKlotski: 974c2236e0462d01b2a21dd4d6885eec9caf8375
 
 PODFILE CHECKSUM: 1702ebf8be17d583642688ccb8f92ad6e8377b62
 

@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 #
 
   s.name             = 'SwiftyKlotski'
-  s.version          = '0.1.1'
+  s.version          = '0.2.2'
   s.summary          = 'Swift library for solving Klotski puzzle games with efficient algorithm.'
 
 # This description is used to generate tags and improve search results.
